@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\Desktop\Работа\Веб\Lab1\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+447581384.index
+2333683103.index
+1333117496.index
+87111012.index
+1916852712.index
+573711370.index

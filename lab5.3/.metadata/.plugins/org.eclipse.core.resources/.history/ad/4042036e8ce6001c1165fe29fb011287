@@ -1,0 +1,5 @@
+package lab53.repo;
+
+public interface bRepo {
+
+}
